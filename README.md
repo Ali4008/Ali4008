@@ -3,7 +3,7 @@
 ## 👋 Hello, I'm Ali!
 
 - 🌟 **Passionate about:** [DS/ML and Deep Learning]
-- 💼 **Currently working at:** [Rapide Technologies (https://rapidetechnologies.com/)
+- 💼 **Currently working at:** [Rapide Technologies (https://rapidetechnologies.com/),
 -  FrieslandCampina Engro Pakistan Limited (https://www.frieslandcampina.com/pk/)]
 - 🎓 **Education:** [Bachelor of Science (Computer Science)]
 - 📫 **How to reach me:** [ali408mehmood@gmail.com]
