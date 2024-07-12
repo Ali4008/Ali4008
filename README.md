@@ -16,10 +16,6 @@ Here are some of the technologies and tools I work with:
 - **Databases:** [e.g., MySQL, MongoDB]
 - **Tools:** [e.g., Git, Docker, Kubernetes]
 
-## 🌱 Currently Learning
-
-- [List what you are currently learning, e.g., Machine Learning, Cloud Computing, etc.]
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali4008&show_icons=true&hide_border=true&theme=radical)
@@ -33,22 +29,6 @@ Here are some projects I've been working on:
 
 ## 📝 Blog
 
-Check out my blog where I write about [topics you write about]:
-
-- [Blog Post Title](link-to-post)
-- [Blog Post Title](link-to-post)
-
-## 🎨 Hobbies & Interests
-
-When I'm not coding, you can find me:
-
-- [Hobby/Interest]
-- [Hobby/Interest]
-
-## 🌐 Find Me Online
-
 - [GitHub Profile](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/ali-408-mehmood/)
 
