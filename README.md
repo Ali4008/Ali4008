@@ -2,10 +2,10 @@
 
 ## 👋 Hello, I'm Ali!
 
-- 🌟 **Passionate about:** [List your interests or fields of passion, e.g., web development, data science, open source]
-- 💼 **Currently working at:** [Your Company or Organization, if applicable]
-- 🎓 **Education:** [Your educational background]
-- 📫 **How to reach me:** [Your contact information, e.g., email, LinkedIn, Twitter]
+- 🌟 **Passionate about:** [DS/ML and Deep Learning]
+- 💼 **Currently working at:** [Rapide Technologies (https://rapidetechnologies.com/)]
+- 🎓 **Education:** [BSCS]
+- 📫 **How to reach me:** [ali408mehmood@gmail.com]
 
 ## 🔧 Technologies & Tools
 
@@ -15,11 +15,6 @@ Here are some of the technologies I work with:
 - **Frameworks/Libraries:** [TensorFlow, OpenCV, Skicit-Learn, Flask, MongoDB, PostgreSQL, 
  Flutter, PowerBI, Microsoft Azure]
 - **Databases:** [e.g., POSTGRESQL, MongoDB]
-
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali4008&show_icons=true&hide_border=true&theme=radical)
 
 ## 🌐 Find Me Online
 
